@@ -1,5 +1,15 @@
 ## **RANK IN FOLLOWING LANGUAGES:**
-#### *ENGLISH*     6TH RANK
-#### *KANNADA*     1ST RANK
-#### *TAMIL*       3RD RANK
-#### *MALAYALAM*   2ND RANK
+
+#### | Language  | Position |
+### | ------------- | ------------- |
+ #### |KANNADA  |  1ST RANK  |
+ #### |MALAYALAM  |  2ND RANK  |
+ #### |TAMIL  |  3RD RANK  |
+ #### |ENGLISH  |  6TH RANK  |
+#### KANNADA     1ST RANK
+#### MALAYALAM   2ND RANK
+#### TAMIL       3RD RANK
+#### ENGLISH    6TH RANK
+
+
+
