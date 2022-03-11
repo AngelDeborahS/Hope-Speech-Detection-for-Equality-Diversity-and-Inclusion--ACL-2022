@@ -7,7 +7,8 @@
 ## Dataset Description:
 ![Overall Process](https://github.com/praveenkumar0211/Hope-Speech-Detection-for-Equality-Diversity-and-Inclusion--ACL-2022/blob/main/daataset%20description.jpg)
 
-## Model Used: ALBERT Model ( NLP ).
+## Model Used: ALBERT Model ( NLP )
+![Overall Process](https://github.com/praveenkumar0211/Hope-Speech-Detection-for-Equality-Diversity-and-Inclusion--ACL-2022/blob/main/model%20architecture.jpg)
 
 ## Overall Process:
 ![Overall Process](https://github.com/praveenkumar0211/Hope-Speech-Detection-for-Equality-Diversity-and-Inclusion--ACL-2022/blob/main/diagram.jpg)
