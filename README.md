@@ -14,4 +14,4 @@
 ![Overall Process](https://github.com/praveenkumar0211/Hope-Speech-Detection-for-Equality-Diversity-and-Inclusion--ACL-2022/blob/main/diagram.jpg)
 
 #### Team Members : [Aravind P](https://github.com/Aravind1411) [Prathyush S](https://github.com/prathyush2510)
-
+#### Project Mentor : [https://github.com/AngelDeborahS]
